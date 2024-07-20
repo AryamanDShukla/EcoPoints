@@ -1,16 +1,10 @@
-# eco_points
 
-A new Flutter project.
+Eco Points App
+Eco Points is an innovative application designed to encourage recycling by awarding users points based on the amount and type of recyclables they submit. Our goal is to promote sustainable living and environmental responsibility by making recycling a rewarding experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Submit Recyclables: Users can submit details of their recyclable items.
+Earn Points: Points are awarded based on the quantity and type of recyclables submitted.
+Track Progress: Users can track their recycling history and points earned.
+Leaderboard: Compare your points with other users and see who is leading in recycling efforts.
+Rewards: Redeem points for various eco-friendly rewards and discounts.
